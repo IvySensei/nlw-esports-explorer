@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://ivysensei.github.io/nlw-esports-explorer2/)
+[Clique aqui para acessar](https://ivysensei.github.io/nlw-esports-explorer/)
 
 ## Tecnologias
 
